@@ -51,10 +51,15 @@ Results
 Here the results of the analysis for the example:
 
 Accuracy Score: 53.6830561141%
+
 Precision of positive class: 55.481526
+
 Recall of positive class: 55.414398
+
 F1-Score of positive class: 55.447942 
 
 Precision of negative class: 55.032619
+
 Recall of negative class: 61.446410
+
 F1-Score of negative class: 58.062930 
